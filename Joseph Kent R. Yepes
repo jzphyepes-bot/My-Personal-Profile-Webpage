@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Profile Webpage</title>
+</head>
+<body>
+
+    <h1>Welcome to My Personal Profile</h1>
+    <p>Hi! I'm [Ilagay mo name mo]. This webpage shows more about me.</p>
+
+    <hr>
+
+    <!-- 1. My Hobbies and Interests - Unordered List with square bullets -->
+    <h2>1. My Hobbies and Interests</h2>
+    <ul type="square">
+        <li>spending time with family and friends</li>
+        <li>Listening to Music</li>
+        <li>Watching Movies and Series</li>
+        <li>using computer</li>
+        <li>Playing Basketball</li>
+    </ul>
+
+    <hr>
+
+    <!-- 2. My Top 5 Favorite Foods - Ordered List with A, B, C -->
+    <h2>2. My Top 5 Favorite Foods</h2>
+    <ol type="A">
+        <li>tinola</li>
+        <li>chicken adobo</li>
+        <li>fried chicken</li>
+        <li>Burgers</li>
+        <li>pizza</li>
+    </ol>
+    <hr>
+
+    <!-- 3. My Educational Goals - Ordered List starting at 5 -->
+    <h2>3. My Educational Goals</h2>
+    <ol start="5">
+        <li>improve my academic performance</li>
+        <li>develop my ict skills</li>
+        <li>Learn Programming and Web Development</li>
+    </ol>
+    <hr>
+    <!-- 4. My Daily Routine - Ordered List with Roman Numerals -->
+    <h2>4. My Daily Routine</h2>
+    <ol type="I">
+        <li>i wake up early,prepare for school,eat breakfast,and review my lessons</li>
+        <li>attend my classes,listen carefully to my teachers</li>
+        <li>Do homework and assignments</li>
+        <li>playing bassketball with my friends</li>
+        <li>after school,I do my homework,study for upcoming quizzes</li>
+    </ol>
+
+    <hr>
+
+    <!-- 5. My Countdown to Success - Ordered List with reversed -->
+    <h2>5. My Countdown to Success</h2>
+    <ol reversed>
+        <li>study hard every night</li>
+        <li>improve my skills</li>
+        <li>achieve My Goals</li>
+    </ol>
+
+</body>
+</html>
